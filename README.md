@@ -1,4 +1,4 @@
-# Lotion Plus
+# Lotion (NOtes Website)
 
 In this assignment, you will create a backend on AWS for the Lotion app you created in a previous assignment. You will use Terraform for creating resources on AWS.
 
@@ -6,11 +6,7 @@ You may use the front-end you built in the previous assignment here if it works 
 
 ## Architecture Overview
 
-<br/>
-<p align="center">
-  <img src="https://res.cloudinary.com/mkf/image/upload/v1678683690/ENSF-381/labs/lotion-backedn_djxhiv.svg" alt="lotion-architecture" width="800"/>
-</p>
-<br/>
+
 
 ## :foot: Steps
 
