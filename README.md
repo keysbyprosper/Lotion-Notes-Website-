@@ -74,9 +74,9 @@ In case you're doing the assignment as part of a group, pay attention to the fol
 - Remember to enable Free Tier notifications on your account before building anything as shown in the videos on D2L
 - If you go over the Free Tier (you would have to screw it up really bad, honestly), you can create a new Free AWS account and build your infrastructure there instead. Thankfully, Terraform makes that process super easy for you
 
-(read1.png)
-(read2.png)
-(read3.png)
-(read4.png)
-(read5.png)
-(read6.png)
+![](read1.png)
+![](read2.png)
+![](read3.png)
+![](read4.png)
+![](read5.png)
+![](read6.png)
