@@ -73,3 +73,10 @@ In case you're doing the assignment as part of a group, pay attention to the fol
 - Don't send a huge number of requests to your Lambdas using automated scripts. You have 1 Million free requests, and up to 3.2 million seconds of free compute time under the [Free Tier](https://aws.amazon.com/free/)
 - Remember to enable Free Tier notifications on your account before building anything as shown in the videos on D2L
 - If you go over the Free Tier (you would have to screw it up really bad, honestly), you can create a new Free AWS account and build your infrastructure there instead. Thankfully, Terraform makes that process super easy for you
+
+(read1.png)
+(read2.png)
+(read3.png)
+(read4.png)
+(read5.png)
+(read6.png)
